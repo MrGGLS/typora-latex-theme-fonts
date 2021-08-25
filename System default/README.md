@@ -18,7 +18,7 @@
 *   宋体-简
 
 > [在 Mac 上的“字体册”中安装和验证字体](https://support.apple.com/zh-cn/guide/font-book/fntbk1000/10.0/mac)
-
+>
 > [使用“字体册”恢复 Mac 随附的字体](https://support.apple.com/zh-cn/guide/font-book/fb34862/10.0/mac/)
 
 ### Windows
